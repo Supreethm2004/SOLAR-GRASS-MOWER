@@ -1,4 +1,4 @@
-# Solar Grass Mower with IoT – README File
+# Solar Grass Mower
 
 ## Introduction  
 The **Solar Grass Mower** is an innovative IoT-based device designed to automate the process of lawn mowing while being environmentally friendly. This smart mower operates on solar energy and uses an ultrasonic sensor for obstacle detection, enabling it to navigate autonomously. The project focuses on energy efficiency, environmental sustainability, and operational convenience without requiring a separate application for control.
