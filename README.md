@@ -75,7 +75,7 @@ The **Solar Grass Mower** is an innovative IoT-based device designed to automate
 - Small-scale commercial landscapes.  
 
 ---
-
+<img src="">
 ## Setup Instructions  
 1. **Assemble Components**  
    - Attach the ultrasonic sensor, solar panel, battery, and motors to the chassis as per the schematic diagram.
